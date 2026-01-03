@@ -17,9 +17,3 @@ projects focused on decision-making, scenario analysis, and performance evaluati
 3. Go to Settings → Pages
 4. Source: `main` branch / root
 5. Visit: https://jineshjain.github.io/
-
-## Tech Stack
-- HTML
-- CSS
-- JavaScript
-- GitHub Pages
